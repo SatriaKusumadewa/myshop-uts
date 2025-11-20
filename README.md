@@ -1,6 +1,7 @@
 # apk_myshop_uts
 
-untuk jawaban no.4 : [Satria Kusumadewa_221080200108_Jawaban Nomor.4.docx](https://github.com/user-attachments/files/23652654/Satria.Kusumadewa_221080200108_Jawaban.Nomor.4.docx)
+untuk jawaban no.4 : [Satria Kusumadewa_221080200108_Jawaban Nomor.4.pdf](https://github.com/user-attachments/files/23652678/Satria.Kusumadewa_221080200108_Jawaban.Nomor.4.pdf)
+
 
 
 ## Getting Started
